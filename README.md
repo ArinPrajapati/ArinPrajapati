@@ -1,11 +1,4 @@
-Hi 👋 My name is Arin Prajapati
-===============================
-
-Full Stack Engineer , Software Developer
-----------------------------------
-
-Building scalable platforms.
-
+Hi, I’m Arin Prajapati! I’m a Full Stack Engineer who builds scalable web applications and solves problems. I work with both front-end and back-end technologies, and I’m always looking to learn new tools and frameworks.
 ### Skills
 
 
