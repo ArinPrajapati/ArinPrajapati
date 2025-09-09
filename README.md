@@ -1,14 +1,10 @@
 Hi 👋 My name is Arin Prajapati
 ===============================
 
-Web Developer , Software Developer
+Full Stack Engineer , Software Developer
 ----------------------------------
 
-Doing Master's(MCA) Currently From VESIT Mumbai, Maharashtra
-
-* 🌍  I'm based in India
-* ✉️  You can contact me at [arinprajapati78@gmail.com](mailto:arinprajapati78@gmail.com)
-* 🧠  I'm learning Data Structures and Algorithms
+Building scalable platforms.
 
 ### Skills
 
